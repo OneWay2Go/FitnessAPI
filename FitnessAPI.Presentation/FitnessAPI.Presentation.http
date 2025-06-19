@@ -1,0 +1,6 @@
+@FitnessAPI.Presentation_HostAddress = http://localhost:5189
+
+GET {{FitnessAPI.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
